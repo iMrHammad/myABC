@@ -36,7 +36,8 @@ namespace AHNWinProject
             }
             Form2 myobj = new Form2(txt_Name.Text,txt_FatherName.Text,cmb_City.Text,InternetCheckBoxResult,dtPicker.Text);
             myobj.Show();
-            //this is new comment
+            
+    
         }
             
     }
