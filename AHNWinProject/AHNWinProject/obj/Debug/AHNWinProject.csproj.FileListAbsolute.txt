@@ -8,3 +8,6 @@ C:\Users\Hammad Maqbool\Desktop\MyCloud\C# Students Work\AHNWinProject\AHNWinPro
 C:\Users\Hammad Maqbool\Desktop\MyCloud\C# Students Work\AHNWinProject\AHNWinProject\obj\Debug\AHNWinProject.exe
 C:\Users\Hammad Maqbool\Desktop\MyCloud\C# Students Work\AHNWinProject\AHNWinProject\obj\Debug\AHNWinProject.pdb
 C:\Users\Hammad Maqbool\Desktop\MyCloud\C# Students Work\AHNWinProject\AHNWinProject\obj\Debug\AHNWinProject.Form2.resources
+C:\Users\Hammad Maqbool\Desktop\C# Projects\AHNWinProject\AHNWinProject\bin\Debug\AHNWinProject.exe.config
+C:\Users\Hammad Maqbool\Desktop\C# Projects\AHNWinProject\AHNWinProject\obj\Debug\AHNWinProject.exe
+C:\Users\Hammad Maqbool\Desktop\C# Projects\AHNWinProject\AHNWinProject\obj\Debug\AHNWinProject.pdb

@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace AHNWinProject
 {
+    //This is the main form here.
     public partial class Form1 : Form
     {
         public Form1()
@@ -33,13 +34,6 @@ namespace AHNWinProject
             Form2 myobj = new Form2(txt_Name.Text,txt_FatherName.Text,cmb_City.Text,InternetCheckBoxResult,dtPicker.Text);
             myobj.Show();
         }
-
-       
-
-        
-        
-        
-       
-
+            
     }
 }
