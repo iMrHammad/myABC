@@ -3,6 +3,9 @@
 using namespace std;
 int main()
 {
+	/*
+	This is the update from the MiniPC 
+	*/
 	int ProgramStatus=1;
 	while(ProgramStatus==1)
 	{
